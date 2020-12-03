@@ -1,0 +1,18 @@
+.formContainer {
+    position: relative;
+    top: 50px;
+}
+
+.fieldContainer {
+    margin-top: 20px;
+}
+
+.btnContainer {
+    position: relative;
+    top: 20px;
+    float: right;
+}
+
+.submitBtn {
+    background-color: #4000ff !important;
+}
